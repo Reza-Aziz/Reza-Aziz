@@ -6,7 +6,7 @@
 
 - 🌟 Enthusiast in **front-end development** currently deepening my expertise.
 
-- 💡 Passionate about learning new things in the
+- 💡 Passionate about learning new things in the tech world
 
 <div align="left">
 <h4>Connect with me:</h4>
